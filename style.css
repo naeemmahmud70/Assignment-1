@@ -46,11 +46,11 @@ h4{
     width: 90%;
 }
 .gray-dev{
-    margin-left: 5%;
     padding: 30px;
     height: 440px;
     width: 23%;
     float: left;
+    margin-left: 5%;
     background-color: white;
     border-radius: 20px;
 }
@@ -89,4 +89,9 @@ h4{
 footer{
     text-align: center;
     color: gray;
+}
+.contact{
+    float: left;
+    width: 33%;
+    height: 300px;
 }
